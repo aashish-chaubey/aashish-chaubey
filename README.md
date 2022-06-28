@@ -41,11 +41,9 @@
   <img alt="scipy" src="https://img.shields.io/badge/-SciPy-024F9C?style=flat-square&logo=scipy&logoColor=white" />
   <img alt="Pandas" src="https://img.shields.io/badge/-Pandas-8DD6F9?style=flat-square&logo=pandas&logoColor=white" /> 
   <img alt="OpenCV" src="https://img.shields.io/badge/-OpenCV-EC4A3F?style=flat-square&logo=opencv&logoColor=white" />
-  
-  
-  
 </p>
 
+<h3>Meet me here</h3>
 <a href="https://www.instagram.com/sunny._.chuabey/">
   <img align="left" alt="Aashish's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
@@ -58,8 +56,11 @@
 <a href="https://www.linkedin.com/in/chaubey-aashish/">
   <img align="left" alt="Aashish's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
+<a href="https://aashishchaubey.com">
+  <img align="left" alt="Aashish's Website" width="22px" src="https://img.icons8.com/external-nawicon-outline-color-nawicon/344/external-website-online-learning-nawicon-outline-color-nawicon.png" />
+</a>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=aashish-chaubey.aashish-chaubey)
+<a href="https://visitor-badge.glitch.me/badge?page_id=aashish-chaubey.aashish-chaubey&title=Visitors"><img src="https://visitor-badge.glitch.me/badge?page_id=aashish-chaubey.aashish-chaubey&title=Visitors" align="right" alt="Visits"></a> 
 
 <!---
 aashish-chaubey/aashish-chaubey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
