@@ -45,23 +45,23 @@
 
 <h3>Meet me here</h3>
 <a href="https://www.instagram.com/sunny._.chuabey/" target="_blank">
-  <img align="left" alt="Aashish's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+  <img align="left" alt="Aashish's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" target="_blank" />
 </a>
 <a href="https://discord.gg/p7pqTt9z" target="_blank">
-  <img align="left" alt="Aashish's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+  <img align="left" alt="Aashish's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" target="_blank" />
 </a>
 <a href="https://twitter.com/AashishLChaubey" target="_blank">
-  <img align="left" alt="Aashish Chaubey | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="Aashish Chaubey | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" target="_blank" />
 </a>
 <a href="https://www.linkedin.com/in/chaubey-aashish/" target="_blank">
-  <img align="left" alt="Aashish's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Aashish's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" target="_blank" />
 </a>
 <a href="https://aashishchaubey.com" target="_blank">
-  <img align="left" alt="Aashish's Website" width="22px" src="https://img.icons8.com/external-nawicon-outline-color-nawicon/344/external-website-online-learning-nawicon-outline-color-nawicon.png" />
+  <img align="left" alt="Aashish's Website" width="22px" src="https://img.icons8.com/external-nawicon-outline-color-nawicon/344/external-website-online-learning-nawicon-outline-color-nawicon.png" target="_blank" />
 </a>
 
 <a href="https://visitor-badge.glitch.me/badge?page_id=aashish-chaubey.aashish-chaubey&title=Visitors" target="_blank">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=aashish-chaubey.aashish-chaubey&title=Visitors" align="right" alt="Visits">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=aashish-chaubey.aashish-chaubey&title=Visitors" align="right" alt="Visits" target="_blank" />
 </a> 
 
 <!---
