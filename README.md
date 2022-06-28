@@ -60,8 +60,8 @@
   <img align="left" alt="Aashish's Website" width="22px" src="https://img.icons8.com/external-nawicon-outline-color-nawicon/344/external-website-online-learning-nawicon-outline-color-nawicon.png" target="_blank" />
 </a>
 
-<a href="https://visitor-badge.glitch.me/badge?page_id=aashish-chaubey.aashish-chaubey&title=Visitors" target="_blank">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=aashish-chaubey.aashish-chaubey&title=Visitors" align="right" alt="Visits" target="_blank" />
+<a href="https://visitor-badge.glitch.me/badge?page_id=aashish-chaubey.aashish-chaubey&title=Visitors" target="blank">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=aashish-chaubey.aashish-chaubey&title=Visitors" align="right" alt="Visits" />
 </a> 
 
 <!---
