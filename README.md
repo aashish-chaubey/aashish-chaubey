@@ -44,23 +44,25 @@
 </p>
 
 <h3>Meet me here</h3>
-<a href="https://www.instagram.com/sunny._.chuabey/">
+<a href="https://www.instagram.com/sunny._.chuabey/" target="_blank">
   <img align="left" alt="Aashish's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
-<a href="https://discord.gg/p7pqTt9z">
+<a href="https://discord.gg/p7pqTt9z" target="_blank">
   <img align="left" alt="Aashish's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
-<a href="https://twitter.com/AashishLChaubey">
+<a href="https://twitter.com/AashishLChaubey" target="_blank">
   <img align="left" alt="Aashish Chaubey | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/chaubey-aashish/">
+<a href="https://www.linkedin.com/in/chaubey-aashish/" target="_blank">
   <img align="left" alt="Aashish's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://aashishchaubey.com">
+<a href="https://aashishchaubey.com" target="_blank">
   <img align="left" alt="Aashish's Website" width="22px" src="https://img.icons8.com/external-nawicon-outline-color-nawicon/344/external-website-online-learning-nawicon-outline-color-nawicon.png" />
 </a>
 
-<a href="https://visitor-badge.glitch.me/badge?page_id=aashish-chaubey.aashish-chaubey&title=Visitors"><img src="https://visitor-badge.glitch.me/badge?page_id=aashish-chaubey.aashish-chaubey&title=Visitors" align="right" alt="Visits"></a> 
+<a href="https://visitor-badge.glitch.me/badge?page_id=aashish-chaubey.aashish-chaubey&title=Visitors" target="_blank">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=aashish-chaubey.aashish-chaubey&title=Visitors" align="right" alt="Visits">
+</a> 
 
 <!---
 aashish-chaubey/aashish-chaubey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
