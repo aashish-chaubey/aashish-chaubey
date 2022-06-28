@@ -21,7 +21,7 @@
   
   <img alt="postgres" src="https://img.shields.io/badge/-Postgres-764ABC?style=flat-square&logo=postgresql&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
-  <img alt="FastAPI" src="https://img.shields.io/badge/-FastAPI-43853d?style=flat-square&logo=fastapi&logoColor=white" />
+  <img alt="FastAPI" src="https://img.shields.io/badge/-FastAPI-2E9387?style=flat-square&logo=fastapi&logoColor=white" />
   
   <img alt="jupyter" src="https://img.shields.io/badge/-Jupyter-F9A03C?style=flat-square&logo=jupyter&logoColor=white" />
   <img alt="VSCode" src="https://img.shields.io/badge/-VSCode-3CA5EB?style=flat-square&logo=visualstudiocode&logoColor=white" />
